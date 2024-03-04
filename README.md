@@ -26,7 +26,17 @@ account ID, transaction type, and amount.
 
 Polymorphism:
 Demonstrate polymorphism by creating a function that accepts BankAccountInterface and performs a series of deposits and withdrawals, regardless of the account type.
+
+
+
+
 problem2:
+
+
+
+
+
+
 Additional Background:
 The banking system now needs to integrate a payment processing module capable of handling various payment methods, including Visa, PayPal, and Cash. This module should interact with the existing banking system to process transactions through different payment methods, demonstrating advanced OOP concepts such as Strategy Pattern, Dependency Injection, and Factory Pattern.
 Additional Requirements:
